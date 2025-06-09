@@ -33,6 +33,7 @@ Gem::Specification.new do |s|
 
   # s.add_runtime_dependency('json', '~> 2.3')
   s.add_runtime_dependency('parallel', '~> 1.10')
+  s.add_runtime_dependency('rubocop-checkstyle_formatter', '~> 0.6.0')
   s.add_runtime_dependency('parser', '>= 3.2.0.0')
   s.add_runtime_dependency('rainbow', '>= 2.2.2', '< 4.0')
   s.add_runtime_dependency('regexp_parser', '>= 1.8', '< 3.0')
