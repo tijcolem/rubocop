@@ -16,6 +16,7 @@ gem 'prism', '0.25.0'
 gem 'rake', '~> 13.0'
 gem 'rspec', '~> 3.7'
 gem 'rubocop-performance', '~> 1.21.0'
+gem 'rubocop-checkstyle_formatter', '0.6.0'
 gem 'rubocop-rake', '~> 0.6.0'
 gem 'rubocop-rspec', '~> 2.29.1'
 # This is a workaround to prevent the following error in rubocop-rspec_rails 2.28.3:
